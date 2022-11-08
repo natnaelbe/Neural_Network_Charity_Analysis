@@ -10,3 +10,4 @@
 ### I believe I was able to achieve the intended performance because initially I was getting a memory error and my values were out of range. Once I edited my code, I received smaller values and my table size was greatly reduced.
 ### I changed the numerical values as well as changing my hidden node layers to 80 for the first layer and 30 for the second layer.
 ## Summary
+### There are a total of over 11,000 parameters which is a big number and our accuracy score is over 70%, which is a decent score. Including a table named "IS_NOT_SUCCESSFUL" would be a recommendation I would make because I think it is important to know which models were a success and which ones failed.
