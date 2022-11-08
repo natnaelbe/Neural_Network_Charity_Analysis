@@ -9,6 +9,8 @@
 ### No variables should be removed from the input data.
 ## Compiling, training, and evaluating
 ### The number of input features do not appear to be identified. There are 3 layers and 3 activation functions.
+![image](https://user-images.githubusercontent.com/89429991/200686855-d92962b5-b60c-4316-9a67-473aa5947b5d.png)
+
 ### I believe I was able to achieve the intended performance because initially I was getting a memory error and my values were out of range. Once I edited my code, I received smaller values and my table size was greatly reduced.
 ### I changed the numerical values as well as changing my hidden node layers to 80 for the first layer and 30 for the second layer.
 ## Summary
