@@ -4,6 +4,8 @@
 ## Data preprocessing
 ### The columns that are not categorized as the "IS_SUCCESSFUL" category are the feature variables.
 ### The "IS_SUCCESSFUL" column would be known as the target variables.
+![image](https://user-images.githubusercontent.com/89429991/200686686-320b3368-6ba1-489f-95c1-5f2c382da43f.png)
+
 ### No variables should be removed from the input data.
 ## Compiling, training, and evaluating
 ### The number of input features do not appear to be identified. There are 3 layers and 3 activation functions.
